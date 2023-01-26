@@ -1,0 +1,15 @@
+{
+  "name": "nomic-evmos-airdrop-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@cosmjs/encoding": "^0.29.5"
+  }
+}
